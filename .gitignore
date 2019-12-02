@@ -1,0 +1,9 @@
+.idea
+.git
+*/__pycache__
+__pycache
+assets/audio/*
+saved_networks
+ckpt/*
+images/*
+script
